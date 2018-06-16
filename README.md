@@ -2,6 +2,72 @@
 
 These are a series of Max patches intended to accompany an introductory Jitter workshop that I taught at ITP Camp 2018. The workshop syllabus and these patches are heavily based on Matt Romein's [Live Image Processing and Performance](https://github.com/mromein/lipp_itp_2018) NYU ITP course.
 
+## Syllabus (Rough)
+
+This is a ton of material, and it's possible that we won't get through all of it in the allotted time. That said, anything that we don't get to should be covered in the patches in this repo.
+
+### Intro
+
+- Why Max?
+- Max vs. similar tools
+
+### Max Basics
+
+- layout of the patcher window
+- locking and unlocking a patch
+- Max console
+- objects, messages, and comments
+- anatomy of an object
+  - name
+  - arguments
+  - inlets (hot vs. cold) and outlets
+- data types
+  - bang
+  - int
+  - float
+  - symbol
+  - list
+  - audio
+  - matrix
+- buttons and toggles
+- metro
+- pack vs. pak, unpack
+- order of operations
+  - right to left
+  - bottom to top
+  - depth-first
+  - trigger
+
+### Video in Jitter
+
+- movie playback
+  - reading a file into jit.movie
+  - jit.window vs. jit.pwindow
+  - jit.movie and bangs
+  - qmetro 33 for 30fps playback
+  - reading from a directory of video files with umenu
+- jit.grab
+- jit.brcosa
+  - $1 message syntax
+- the Jitter matrix
+  - planes (ARGB not RGBA)
+  - data types (char vs. float32)
+  - dimensions
+  - jit.cellblock
+  - jit.unpack
+- building a random video player
+
+### Effects
+- jit.lumakey
+- jit.chromakey
+- jit.rota
+- video feedback
+- jit.matrixset
+
+### Interfaces
+- presentation mode
+- presets
+
 ## Resources & Tutorials
 
 - Matt Romein also has a really excellent series of [Youtube tutorials](https://www.youtube.com/channel/UCPWF2lJ4E_qVG7HrWRiGnhA/playlists) that cover the topics discussed in this workshop and more.
