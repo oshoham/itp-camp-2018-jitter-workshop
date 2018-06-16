@@ -2,9 +2,10 @@
 
 These are a series of Max patches intended to accompany an introductory Jitter workshop that I taught at ITP Camp 2018. The workshop syllabus and these patches are heavily based on Matt Romein's [Live Image Processing and Performance](https://github.com/mromein/lipp_itp_2018) NYU ITP course.
 
-## Further Reading
+## Resources & Tutorials
 
 - Matt Romein also has a really excellent series of [Youtube tutorials](https://www.youtube.com/channel/UCPWF2lJ4E_qVG7HrWRiGnhA/playlists) that cover the topics discussed in this workshop and more.
+- The built-in tutorials in Max, found by navigating to Help -> Reference and then clicking on the Home icon.
 - Sam Tarakajian's [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497)
 - Federico Foderaro's [Amazing Max Tutorials](https://www.youtube.com/watch?v=5mLAxACSPLU&list=PLRc5WfOZXC4ktigvYCDhek0475hizrnM5)
 - Darwin Grosse's online book [20 Objects](http://www.darwingrosse.com/20Objects/)
@@ -20,4 +21,7 @@ These are a series of Max patches intended to accompany an introductory Jitter w
   - [Recipe 54](https://cycling74.com/tutorials/recipe-54-zoom)
   - [Recipe 55](https://cycling74.com/tutorials/recipe-55-mirrorhouse)
   - [Recipe 56](https://cycling74.com/tutorials/recipe-56-relief)
+- [The Cycling '74 Forums](https://cycling74.com/forums/page/1)
+- [Max/MSP](https://www.facebook.com/groups/961274147281218/) and [Jitter (C74)](https://www.facebook.com/groups/maxmspjitter/) Facebook groups
+- [Programming Max: Structuring Interactive Software for Digital Arts](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts-i/info) Kadenze course
 
